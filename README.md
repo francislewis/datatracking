@@ -12,4 +12,8 @@ I plan to see what BASH commands I use, how much 3G data I use and my phone scre
 
 
 #How?
+
+###Fitness
 Using a Mi Band, Bryton watch and Bryton Heart rate monitor.
+
+###Technology
