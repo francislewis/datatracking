@@ -1,5 +1,5 @@
 # datatracking
-I am going to track data about myt life for a week and try to represent it in a few different ways.
+I am going to track data about my life for a week and try to represent it in a few different ways.
 
 #What data?
 
@@ -17,4 +17,4 @@ I plan to see what BASH commands I use, how much 3G data I use and my phone scre
 Using a Mi Band, Bryton watch and Bryton Heart rate monitor.
 
 ###Technology
-Using [this script](https://gist.github.com/francislewis/b8a7aba57fa40234a5df) and the stock andriod settings app (Using a Moto G 2013 XT1032 running Andriod 5.02).
+Using [this script](https://gist.github.com/francislewis/b8a7aba57fa40234a5df) and the stock andriod settings app (Using a Nexus 4 on andriod 5.1).
